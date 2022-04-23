@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=geaaru)
+![](https://komarev.com/ghpvc/?username=Epikest)
 
-![](https://raw.githubusercontent.com/geaaru/geaaru/master/github-metrics.svg)
+![](https://raw.githubusercontent.com/Epikest/Epikest/master/github-metrics.svg)
 
 <!--
-**geaaru/geaaru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Epikest/Epikest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
