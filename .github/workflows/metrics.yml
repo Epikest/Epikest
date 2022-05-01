@@ -19,10 +19,10 @@ jobs:
           committer_token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: geaaru
+          user: Epikest
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Europe/Rome
+          config_timezone: America/New_York
           plugin_achievements: yes
           plugin_achievements_display: detailed
           plugin_achievements_secrets: yes
