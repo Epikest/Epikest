@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=Epikest)
+[![Profile views](https://komarev.com/ghpvc/?username=Epikest)](https://github.com/Epikest)
 
-![](https://raw.githubusercontent.com/Epikest/Epikest/master/github-metrics.svg)
+[![Metrics](https://raw.githubusercontent.com/Epikest/Epikest/master/github-metrics.svg)](https://github.com/Epikest/Epikest/blob/master/.github/workflows/metrics.yml)
 
 <!--
 **Epikest/Epikest** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
