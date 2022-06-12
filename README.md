@@ -1,4 +1,4 @@
-### Hi there 👋
+### hi
 
 [![Profile views](https://komarev.com/ghpvc/?username=Epikest)](https://github.com/Epikest)
 
