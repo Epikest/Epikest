@@ -35,6 +35,7 @@ jobs:
           plugin_activity_visibility: public
           plugin_followup: yes
           plugin_followup_indepth: yes
+          plugin_followup_sections: user
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
           plugin_languages: yes
