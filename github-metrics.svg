@@ -1952,7 +1952,7 @@ This is normal behavior.</i>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.83m out of 99.7m repositories</span>
+                                    <span class="gh">ranked 1.83m out of 94.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -2023,7 +2023,7 @@ This is normal behavior.</i>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.67m out of 99.7m repositories</span>
+                                    <span class="gh">ranked 2.67m out of 94.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -2150,7 +2150,7 @@ This is normal behavior.</i>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 14 Feb 2024, 22:50:11 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 14 Feb 2024, 22:56:41 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
