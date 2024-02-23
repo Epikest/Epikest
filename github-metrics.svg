@@ -94,7 +94,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
                             </svg>
-                            113 issue comments
+                            114 issue comments
                         </div>
                     </section>
                     <section>
@@ -1423,6 +1423,23 @@
                                 </div>
                                 <div class="details">
                                     <div>opened by Epikest in <span class="repo">Magisk-Modules-Alt-Repo/usb-samplerate-unlocker</span></div>
+                                    <div class="comment">none, but i have a custom kernel (Kirisakura) and use Magisk Alpha.</div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#10 No audio on Pixel 6</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by Epikest in <span class="repo">Magisk-Modules-Alt-Repo/usb-samplerate-unlocker</span></div>
                                     <div class="comment">it's empty</div>
                                 </div>
                             </section>
@@ -1467,23 +1484,6 @@
                                 <div class="details">
                                     <div>opened by Epikest in <span class="repo">Magisk-Modules-Alt-Repo/usb-samplerate-unlocker</span></div>
                                     <div class="comment">i turned it off and there is still no audio.</div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#28 Audio speed and pitch halved with 192k 32, no audio with 384k 32</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by Epikest in <span class="repo">yzyhk904/USB_SampleRate_Changer</span></div>
-                                    <div class="comment">thanks</div>
                                 </div>
                             </section>
                         </div>
@@ -1913,7 +1913,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.84m out of 79m repositories</span>
+                                    <span class="gh">ranked 1.84m out of 81.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -1984,7 +1984,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.68m out of 79m repositories</span>
+                                    <span class="gh">ranked 2.68m out of 81.1m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -2111,7 +2111,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 23 Feb 2024, 11:49:08 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 23 Feb 2024, 11:55:55 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
