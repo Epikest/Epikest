@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1970" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2689" class="">
     <defs>
         <style/>
     </defs>
@@ -42,7 +42,7 @@
                                     <rect class="day" x="135" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="180" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                     <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
@@ -81,7 +81,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                             </svg>
-                            2 Pull requests opened
+                            3 Pull requests opened
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -177,7 +177,7 @@
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M2.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h10.5a.25.25 0 00.25-.25V4.664a.25.25 0 00-.073-.177l-2.914-2.914a.25.25 0 00-.177-.073H2.75zM1 1.75C1 .784 1.784 0 2.75 0h7.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16H2.75A1.75 1.75 0 011 14.25V1.75zm7 1.5a.75.75 0 01.75.75v1.5h1.5a.75.75 0 010 1.5h-1.5v1.5a.75.75 0 01-1.5 0V7h-1.5a.75.75 0 010-1.5h1.5V4A.75.75 0 018 3.25zm-3 8a.75.75 0 01.75-.75h4.5a.75.75 0 010 1.5h-4.5a.75.75 0 01-.75-.75z"/>
                                     </svg>
-                                    92.3k added, 34.7k removed
+                                    2.31m added, 1.64m removed
                                 </div>
                             </section>
                             <section>
@@ -273,13 +273,13 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#pr-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="5.9459459459459465" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="5.9459459459459465" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="5.9459459459459465" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="5.9459459459459465" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="5.9459459459459465" y="0" width="32.7027027027027" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="38.648648648648646" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="38.648648648648646" y="0" width="181.35135135135135" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="2.9333333333333336" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="2.9333333333333336" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="2.9333333333333336" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="2.9333333333333336" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="2.9333333333333336" y="0" width="32.266666666666666" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="35.2" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="35.2" y="0" width="184.79999999999998" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
@@ -287,13 +287,13 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#238636" fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                 </svg>
-                                <span class="no-wrap">2 <small>open</small></span>
+                                <span class="no-wrap">1 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">61 <small>merged</small></span>
+                                <span class="no-wrap">63 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -406,6 +406,12 @@
                         </h3>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M7.998 14.5c2.832 0 5-1.98 5-4.5 0-1.463-.68-2.19-1.879-3.383l-.036-.037c-1.013-1.008-2.3-2.29-2.834-4.434-.322.256-.63.579-.864.953-.432.696-.621 1.58-.046 2.73.473.947.67 2.284-.278 3.232-.61.61-1.545.84-2.403.633a2.788 2.788 0 01-1.436-.874A3.21 3.21 0 003 10c0 2.53 2.164 4.5 4.998 4.5zM9.533.753C9.496.34 9.16.009 8.77.146 7.035.75 4.34 3.187 5.997 6.5c.344.689.285 1.218.003 1.5-.419.419-1.54.487-2.04-.832-.173-.454-.659-.762-1.035-.454C2.036 7.44 1.5 8.702 1.5 10c0 3.512 2.998 6 6.498 6s6.5-2.5 6.5-6c0-2.137-1.128-3.26-2.312-4.438-1.19-1.184-2.436-2.425-2.653-4.81z"/>
+                            </svg>
+                            Current streak 1 day
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M8.5.75a.75.75 0 00-1.5 0v5.19L4.391 3.33a.75.75 0 10-1.06 1.061L5.939 7H.75a.75.75 0 000 1.5h5.19l-2.61 2.609a.75.75 0 101.061 1.06L7 9.561v5.189a.75.75 0 001.5 0V9.56l2.609 2.61a.75.75 0 101.06-1.061L9.561 8.5h5.189a.75.75 0 000-1.5H9.56l2.61-2.609a.75.75 0 00-1.061-1.06L8.5 5.939V.75z"/>
                             </svg>
                             Best streak 2 days
@@ -426,7 +432,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path d="M10.896 2H8.75V.75a.75.75 0 00-1.5 0V2H5.104a.25.25 0 00-.177.427l2.896 2.896a.25.25 0 00.354 0l2.896-2.896A.25.25 0 0010.896 2zM8.75 15.25a.75.75 0 01-1.5 0V14H5.104a.25.25 0 01-.177-.427l2.896-2.896a.25.25 0 01.354 0l2.896 2.896a.25.25 0 01-.177.427H8.75v1.25zm-6.5-6.5a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM6 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 016 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5zM12 8a.75.75 0 01-.75.75h-.5a.75.75 0 010-1.5h.5A.75.75 0 0112 8zm2.25.75a.75.75 0 000-1.5h-.5a.75.75 0 000 1.5h.5z"/>
                             </svg>
-                            Average per day at ~0.10
+                            Average per day at ~0.11
                         </div>
                     </section>
                 </div>
@@ -1419,10 +1425,10 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
-                            <g transform="translate(-3.4, 8)">
-                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
-                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            <g transform="translate(-3.4, 5)">
+                                <path fill="#216e39" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#216e39" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,5 0,4 z"/>
+                                <path fill="#216e39" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,4 1.7,5 z"/>
                             </g>
                         </g>
                     </g>
@@ -1444,7 +1450,7 @@
                                         <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Opened
+                                        Merged
                                         <span class="issue">#2 Merge upstream</span>
                                     </div>
                                 </div>
@@ -1458,18 +1464,116 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Deleted
+                      branch
+                                        <span class="code">crystal-lang-master</span>
+                                        in
+                                        <span class="repo">Epikest/crystal</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">Epikest/minfiniteyield</span>
+                                        Pushed 336 commits in
+                                        <span class="repo">Epikest/crystal</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">min</span></div>
+                                    <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <div class="sha">#8b2db72</div>
-                                        <div class="message">fix darklua download step</div>
+                                        <div class="sha">#57d9397</div>
+                                        <div class="message">Add `Number#integer?` (#13936)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5d68979</div>
+                                        <div class="message">Refactor `HTML.unescape` in native Crystal (#13844)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0b006d</div>
+                                        <div class="message">Fix location of global `Path` nodes in certain constructs (#13932)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ee412b0</div>
+                                        <div class="message">Support `%r` and `%x` when not followed by delimiter start (#13933)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0dbafcb</div>
+                                        <div class="message">Add `Math.fma` (#13934)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6e3a66e</div>
+                                        <div class="message">Add annotations to output of `crystal tool unreachable` (#13927)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7196d0f</div>
+                                        <div class="message">Add `--check` flag to `crystal tool unreachable` (#13930)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e4be9b</div>
+                                        <div class="message">Add `Crystal::HOST_TRIPLE` and `TARGET_TRIPLE` (#13823)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f304b57</div>
+                                        <div class="message">Drop `Char::Reader#@end` (#13920)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c97c20e</div>
+                                        <div class="message">Fix `Process.exists?` throwing errors on EPERM (#13911)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4c836be</div>
+                                        <div class="message">Fix a typo (#13914)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7aa0282</div>
+                                        <div class="message">Add `String` and `Char` patterns to `StringScanner` (#13806)
+
+Co-authored-by: Johannes Müller &lt;straightshoota@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#50763f0</div>
+                                        <div class="message">Support full exponent range in `BigFloat#**(BigInt)` (#13881)
+
+Co-authored-by: Johannes Müller &lt;straightshoota@gmail.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64974a0</div>
+                                        <div class="message">Respect Windows `Path` directory separators in `File.match?` (#13912)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#26819e3</div>
+                                        <div class="message">Make `Process#wait` asynchronous on Windows (#13908)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#856cb21</div>
+                                        <div class="message">Add macro methods for `MacroIf` and `MacroFor` nodes (#13902)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8454312</div>
+                                        <div class="message">Add `CharLiteral#ord` (#13910)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a55b115</div>
+                                        <div class="message">Use `CMAKE_MSVC_RUNTIME_LIBRARY` flag in win.yml (#13900)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#ad7d42c</div>
+                                        <div class="message">Fix documentation of `Hash#put_if_absent` (#13898)</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#008d76a</div>
+                                        <div class="message">Add `UUID.v1`, `.v2`, `.v3`, `.v4`, `.v5` (#13693)
+
+Co-authored-by: Quinton Miller &lt;nicetas.c@gmail.com&gt;</div>
                                     </div>
                                 </div>
                             </section>
@@ -1478,12 +1582,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">Andrewthe13th/Inventory_Kamera</span>
+                                        Merged
+                                        <span class="issue">#3 Rebase</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">Epikest/crystal</span></div>
+                                    <div>535 files changed <span class="code">++32085 --7531</span></div>
                                 </div>
                             </section>
                         </div>
@@ -1491,24 +1599,94 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Starred
-                                        <span class="repo">ferriarnus/acedium</span>
+                                        Pushed 47 commits in
+                                        <span class="repo">Epikest/crystal</span>
                                     </div>
                                 </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Starred
-                                        <span class="repo">Nomi-CEu/Nomi-CEu-Modern</span>
+                                <div class="details">
+                                    <div>on branch <span class="code">crystal-lang-master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c6c997c</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1cca5b3</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b0effca</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f5b3ec5</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#9a3989c</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#baaab3b</div>
+                                        <div class="message">Update sync.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55f8072</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c55412d</div>
+                                        <div class="message">Update sync.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#5df6d92</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d296899</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8a24baf</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#57ab29b</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#261f467</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4977440</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1125f8a</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fbcaafe</div>
+                                        <div class="message">Update sync.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d8214cf</div>
+                                        <div class="message">Create sync.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#37de763</div>
+                                        <div class="message">Update win.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#97407fe</div>
+                                        <div class="message">Update win_build_portable.yml</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e2ab889</div>
+                                        <div class="message">Update Makefile.win</div>
                                     </div>
                                 </div>
                             </section>
@@ -1780,7 +1958,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="56.859296482412056 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="57.63819095477387 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-width="2" fill="none" fill-rule="evenodd">
@@ -1808,7 +1986,7 @@
                                     <span class="prefix"></span>
                                     Contributor
                                 </div>
-                                <div class="text">Opened 74 pull requests</div>
+                                <div class="text">Opened 75 pull requests</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -1972,7 +2150,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Inspirer
-                                    <span class="gh">ranked 1.85m out of 93m repositories</span>
+                                    <span class="gh">ranked 1.85m out of 68.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining or created a repository which has been forked 5 times</div>
                             </div>
@@ -2010,7 +2188,7 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Maintainer
-                                    <span class="gh">ranked 2.72m out of 93m repositories</span>
+                                    <span class="gh">ranked 2.72m out of 68.7m repositories</span>
                                 </div>
                                 <div class="text">Maintaining a repository with 6 stars</div>
                             </div>
@@ -2137,7 +2315,7 @@
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 26 Mar 2024, 21:55:49 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 26 Mar 2024, 22:08:41 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
