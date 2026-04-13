@@ -1452,7 +1452,7 @@
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Epikest in <span class="repo">HutchApp/hutch-app</span></div>
+                                    <div>opened by Epikest in <span class="repo">Readplace/readplace.com</span></div>
                                     <div class="comment">
                                         <i>This could be split like:
 Phase 1:
@@ -1483,7 +1483,7 @@ How does that sound?</i>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Epikest in <span class="repo">HutchApp/hutch-app</span></div>
+                                    <div>opened by Epikest in <span class="repo">Readplace/readplace.com</span></div>
                                     <div class="comment">hey @FagnerMartinsBrack, thanks for your consideration. i think the end user is aware enough to know the implications of using third-party account providers so it should be fine with no disclaimer. just to be clear, we're keeping the email and password registration and adding additional options. that means users can choose not to use the other providers if they wish it.</div>
                                 </div>
                             </section>
@@ -1537,7 +1537,7 @@ How does that sound?</i>
             </section>
             <footer>
                 <span>These metrics do not include all private contributions</span>
-                <span>Last updated 13 Apr 2026, 01:12:05 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Apr 2026, 02:03:40 (timezone America/New_York) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
